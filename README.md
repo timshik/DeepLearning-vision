@@ -1,2 +1,3 @@
 # DeepLearniong-vision
-classifying cars cats and tracks with unbalanced data 
+classifying pictures of cars cats and trucks with unbalanced data.
+workflow + explenation of results (labratory report) in the answers.pdf file
